@@ -1,5 +1,5 @@
-# Beautiful Responsive Image Slider with js
-A beautiful image slider using js, a simple solution as a jquery replacement. You can easily use this code on your projects.
+# Responsive Image Slider with js
+A beautiful responsive image slider using js, a simple solution as a jquery replacement. You can easily use this code on your projects.
 
 # Output looks like this on desktop
 ![image](https://user-images.githubusercontent.com/82378187/163626595-3d1ef29d-0a87-422b-adb7-d76a1c5b14f8.png)
